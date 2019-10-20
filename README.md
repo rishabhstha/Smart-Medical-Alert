@@ -1,5 +1,4 @@
-# Smart-Medical-Alert
-
+# Health-Band-Alert
 We want our solution to forecast possible emergency events, such as a heart attack, before they can happen to our user. We do this by training our neural network based machine learning model to predict whether or not the user may have a heart disease. With this model we have achieved 78% accuracy and we believe with more data points this can be improved. 
 
 How: We inputted labelled data that contain several features (age, sex, heart rate, blood pressure and others) to a feed-forward neural network (multi-layer perceptron) and train it to classify whether or not a person with the given data has a heart disease. We previously trained and validate the data with a logistical regression approach. However, this led to an accuracy of only 76%. 
