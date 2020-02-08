@@ -5,4 +5,4 @@ How: We inputted labelled data that contain several features (age, sex, heart ra
 
 Challenges: data in which a person's heart rate is observed while having an emergency situation are quite rare. These data will be key in our future development of HealthBand so the model can better learn and differentiate an emergency situation from a non-emergency one.
 
-Next steps: We would like to not only train the model and achieve a high accuracy because we would like to deploy the ML models to a web and mobile app where users can interact with them seamlessly.
+Next steps: We would like to not only train the model and achieve a high accuracy but we would like to deploy the ML models to a web and mobile app where users can interact with them seamlessly.
