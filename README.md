@@ -4,19 +4,19 @@ https://www.seas.harvard.edu/news/2019/11/ode-code
 
 ## Check Out Some Images of the Prototype
 ### Home
-<br/> <img src="https://github.com/rishabhstha/Smart-Medical-Alert/blob/master/HackHarvard_Images/1%20Home.png" />
+<img src="https://github.com/rishabhstha/Smart-Medical-Alert/blob/master/HackHarvard_Images/1%20Home.png" />
 ### The Problem We Address
-<br/> <img src="https://github.com/rishabhstha/Smart-Medical-Alert/blob/master/HackHarvard_Images/2%20Problem.png" />
+<img src="https://github.com/rishabhstha/Smart-Medical-Alert/blob/master/HackHarvard_Images/2%20Problem.png" />
 ### Smart Medical Reminders
-<br/> <img src="https://github.com/rishabhstha/Smart-Medical-Alert/blob/master/HackHarvard_Images/3%20Smart%20Reminders.png" />
+<img src="https://github.com/rishabhstha/Smart-Medical-Alert/blob/master/HackHarvard_Images/3%20Smart%20Reminders.png" />
 ### Medical Files Databasing
-<br/> <img src="https://github.com/rishabhstha/Smart-Medical-Alert/blob/master/HackHarvard_Images/4%20Medical%20Files%20Database.png" />
+<img src="https://github.com/rishabhstha/Smart-Medical-Alert/blob/master/HackHarvard_Images/4%20Medical%20Files%20Database.png" />
 ### Automated Health Metrics
-<br/> <img src="https://github.com/rishabhstha/Smart-Medical-Alert/blob/master/HackHarvard_Images/5%20Health%20Metrics.png" />
+<img src="https://github.com/rishabhstha/Smart-Medical-Alert/blob/master/HackHarvard_Images/5%20Health%20Metrics.png" />
 ### Machine Learning Based Alerts
-<br/> <img src="https://github.com/rishabhstha/Smart-Medical-Alert/blob/master/HackHarvard_Images/6%20ML%20Alerts.png" />
+<img src="https://github.com/rishabhstha/Smart-Medical-Alert/blob/master/HackHarvard_Images/6%20ML%20Alerts.png" />
 ### QR Code Scan for Emergency Data-Sourcing
-<br/> <img src="https://github.com/rishabhstha/Smart-Medical-Alert/blob/master/HackHarvard_Images/7%20QR%20Code.png" />
+<img src="https://github.com/rishabhstha/Smart-Medical-Alert/blob/master/HackHarvard_Images/7%20QR%20Code.png" />
 
 
 ## Our Prototype Solution
