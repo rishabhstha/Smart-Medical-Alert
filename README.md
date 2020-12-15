@@ -1,4 +1,4 @@
-# Health-Band-Alert
+# Harvard Hackathon Project: Smart Medical System
 This Project was Submitted to Harvard University's Fifth Annual Hackathon. Check us out in their press, here:
 https://www.seas.harvard.edu/news/2019/11/ode-code
 
