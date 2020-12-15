@@ -3,6 +3,20 @@ This Project was Submitted to Harvard University's Fifth Annual Hackathon. Check
 https://www.seas.harvard.edu/news/2019/11/ode-code
 
 ## Check Out Some Images of our Prototype
+### 
+<br/> <img src="https://github.com/rishabhstha/Smart-Medical-Alert/blob/master/HackHarvard_Images/1%20Home.png" />
+### 
+<br/> <img src="https://github.com/rishabhstha/Smart-Medical-Alert/blob/master/HackHarvard_Images/2%20Problem.png" />
+### 
+<br/> <img src="https://github.com/rishabhstha/Smart-Medical-Alert/blob/master/HackHarvard_Images/3%20Smart%20Reminders.png" />
+### 
+<br/> <img src="https://github.com/rishabhstha/Smart-Medical-Alert/blob/master/HackHarvard_Images/4%20Medical%20Files%20Database.png" />
+### 
+<br/> <img src="https://github.com/rishabhstha/Smart-Medical-Alert/blob/master/HackHarvard_Images/5%20Health%20Metrics.png" />
+### 
+<br/> <img src="https://github.com/rishabhstha/Smart-Medical-Alert/blob/master/HackHarvard_Images/6%20ML%20Alerts.png" />
+### 
+<br/> <img src="https://github.com/rishabhstha/Smart-Medical-Alert/blob/master/HackHarvard_Images/7%20QR%20Code.png" />
 
 
 ## Our Prototype Solution
